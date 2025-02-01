@@ -15,4 +15,5 @@ body {
 	stroke-width: 0.75;
 	font-size: 24px;
 	background-size: 110%;
+	background-repeat: none;
 }
